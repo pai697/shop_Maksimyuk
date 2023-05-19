@@ -6,47 +6,18 @@ export function reducer(state, { type, payload }) {
                 goods: payload || [],
                 loading: false,
             };
-        case 'ADD_TO_CART': {
-            const itemIndex = state.order.findIndex(
-                (orderItem) => orderItem.id === payload.id
-            );
-
-            let newOrder = null;
-            if (itemIndex < 0) {
-                const newItem = {
-                    ...payload,
-                    quantity: 1,
-                };
-                newOrder = [...state.order, newItem];
-            } else {
-                newOrder = state.order.map((orderItem, index) => {
-                    if (index === itemIndex) {
-                        return {
-                            ...orderItem,
-                            quantity: orderItem.quantity + 1,
-                        };
-                    } else {
-                        return orderItem;
-                    }
-                });
-            }
-
-            return {
-                ...state,
-                order: newOrder,
-                alertName: payload.name,
-            };
-        }
+        case "ADD_TO_CART":
+            return { ...state, order: [...state.order, { ...payload, quantity: 1 }] };
         case 'REMOVE_FROM_CART':
             return {
                 ...state,
-                order: state.order.filter((el) => el.id !== payload.id),
+                order: state.order.filter((el) => el._id !== payload.id),
             };
         case 'INCREASE_QUANTITY':
             return {
                 ...state,
                 order: state.order.map((el) => {
-                    if (el.id === payload.id) {
+                    if (el._id === payload.id) {
                         const newQuantity = el.quantity + 1;
                         return {
                             ...el,
@@ -61,7 +32,7 @@ export function reducer(state, { type, payload }) {
             return {
                 ...state,
                 order: state.order.map((el) => {
-                    if (el.id === payload.id) {
+                    if (el._id === payload.id) {
                         const newQuantity = el.quantity - 1;
                         return {
                             ...el,

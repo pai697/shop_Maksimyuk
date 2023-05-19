@@ -2,23 +2,24 @@ import { useContext } from "react";
 import { ShopContext } from "../context";
 
 function GoodsItem(props) {
+
   const {
-    id,
-    name,
+    _id,
+    title,
     description,
     price,
-    full_background,
+    image,
   } = props;
 
   const { addToCart } = useContext(ShopContext);
 
   return (
-    <div className="card" id={id}>
+    <div className="card" id={_id}>
       <div className="card-image">
-        <img src={full_background} alt={name} />
+        <img src={image} alt={title} />
       </div>
       <div className="card-content">
-        <span className="card-title">{name}</span>
+        <span className="card-title">{title}</span>
         <p>
           {description}
         </p>
@@ -26,15 +27,15 @@ function GoodsItem(props) {
       <div className="card-action">
         <button className="btn" onClick={() =>
           addToCart({
-            id,
-            name,
+            _id,
+            title,
             price,
           })
         }
         >
           buy
         </button>
-        <span className="right price">{price} coins</span>
+        <span className="right price">{price} $</span>
       </div>
     </div>
   )

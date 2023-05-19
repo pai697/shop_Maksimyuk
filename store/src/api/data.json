@@ -1,0 +1,429 @@
+{
+  "data": {
+    "categories": [
+      {
+        "name": "men's fashion",
+        "products": [
+          {
+            "_id": "61ab420c0f34753bca787",
+            "title": "special cotton shirt for men",
+            "price": 15,
+            "category": {
+              "_id": "61ab1ca64a0fef3f27dc663f",
+              "name": "men's fashion",
+              "slug": "mens-fashion"
+            },
+            "description": "",
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49b9345dcc333ac6cb41",
+              "name": "Sofia Lily"
+            },
+            "createdAt": "2021-12-04T10:25:16.546Z",
+            "updatedAt": "2021-12-11T03:14:40.195Z",
+            "slug": "special-cotton-shirt-for-men",
+            "image": "https://smash.com.ua/image/cache/catalog/futbolki/premiumCoton/gray/1-700x956.jpg"
+          },
+          {
+            "_id": "61ab42600f34753bcea78b",
+            "title": "high quality men distress skinny blue jeans",
+            "price": 90,
+            "category": {
+              "_id": "61ab1ca64a0fef3f27dc663f",
+              "name": "men's fashion",
+              "slug": "mens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49eb345dcc333ac6cb47",
+              "name": "Mark Lyan"
+            },
+            "createdAt": "2021-12-04T10:26:40.771Z",
+            "updatedAt": "2021-12-04T10:26:40.771Z",
+            "slug": "high-quality-men-distress-skinny-blue-jeans",
+            "image": "https://smash.com.ua/image/cache/catalog/jeans/loosfit/v3/0-700x956.jpg"
+          },
+          {
+            "_id": "61ab42790f34753bced78f",
+            "title": "cotton o neck mens clothing t shirts",
+            "price": 30,
+            "category": {
+              "_id": "61ab1ca64a0fef3f27dc663f",
+              "name": "men's fashion",
+              "slug": "mens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49b9345dcc333ac6cb41",
+              "name": "Sofia Lily"
+            },
+            "createdAt": "2021-12-04T10:27:05.257Z",
+            "updatedAt": "2021-12-04T10:27:05.257Z",
+            "slug": "cotton-o-neck-mens-clothing-t-shirts",
+            "image": "https://smash.com.ua/image/cache/catalog/futbolki/strechCoton/1-700x956.jpg"
+          },
+          {
+            "_id": "61ab0c0f34753bcefa787",
+            "title": "special cotton shirt for men",
+            "price": 15,
+            "category": {
+              "_id": "61ab1ca64a0fef3f27dc663f",
+              "name": "men's fashion",
+              "slug": "mens-fashion"
+            },
+            "description": "",
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49b9345dcc333ac6cb41",
+              "name": "Sofia Lily"
+            },
+            "createdAt": "2021-12-04T10:25:16.546Z",
+            "updatedAt": "2021-12-11T03:14:40.195Z",
+            "slug": "special-cotton-shirt-for-men",
+            "image": "https://smash.com.ua/image/cache/catalog/futbolki/strechCoton/1-700x956.jpg"
+          },
+          {
+            "_id": "61ab426034753bcedfa78b",
+            "title": "high quality men distress skinny blue jeans",
+            "price": 90,
+            "category": {
+              "_id": "61ab1ca64a0fef3f27dc663f",
+              "name": "men's fashion",
+              "slug": "mens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49eb345dcc333ac6cb47",
+              "name": "Mark Lyan"
+            },
+            "createdAt": "2021-12-04T10:26:40.771Z",
+            "updatedAt": "2021-12-04T10:26:40.771Z",
+            "slug": "high-quality-men-distress-skinny-blue-jeans",
+            "image": "https://smash.com.ua/image/cache/catalog/jeans/loosfit/v3/0-700x956.jpg"
+          },
+          {
+            "_id": "6142790f34753bcedfa78f",
+            "title": "cotton o neck mens clothing t shirts",
+            "price": 30,
+            "category": {
+              "_id": "61ab1ca64a0fef3f27dc663f",
+              "name": "men's fashion",
+              "slug": "mens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49b9345dcc333ac6cb41",
+              "name": "Sofia Lily"
+            },
+            "createdAt": "2021-12-04T10:27:05.257Z",
+            "updatedAt": "2021-12-04T10:27:05.257Z",
+            "slug": "cotton-o-neck-mens-clothing-t-shirts",
+            "image": "https://smash.com.ua/image/cache/catalog/futbolki/premiumCoton/gray/1-700x956.jpg"
+          }
+        ]
+      },
+      {
+        "name": "women's fashion",
+        "products" : [
+          {
+            "_id": "61abd00f34753bcedfa79e",
+            "title": "cotton pullover embroidery sweatshirt women",
+            "price": 100,
+            "category": {
+              "_id": "61ab1ce24a0fef3f27dc6647",
+              "name": "women's fashion",
+              "slug": "womens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e4976345dcc333ac6cb38",
+              "name": "Aria Ella"
+            },
+            "createdAt": "2021-12-04T10:28:32.450Z",
+            "updatedAt": "2021-12-04T10:28:32.450Z",
+            "slug": "cotton-pullover-embroidery-sweatshirt-women",
+            "image": "https://media.paulsmith.com/dam/products/w_600,c_scale/q_80/MODEL/ECOM/W2R/W2R-226VE-K21169-02/W2R-226VE-K21169-02_1.jpg"
+          },
+          {
+            "_id": "61ab42e90f34753bcedfa7",
+            "title": "breast button belt sur collar winter coat women",
+            "price": 120,
+            "category": {
+              "_id": "61ab1ce24a0fef3f27dc6647",
+              "name": "women's fashion",
+              "slug": "womens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e48bf345dcc333ac6cb28",
+              "name": "William Counts"
+            },
+            "createdAt": "2021-12-04T10:28:57.621Z",
+            "updatedAt": "2021-12-04T10:28:57.621Z",
+            "slug": "breast-button-belt-sur-collar-winter-coat-women",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2uQTMeW5vZZnOcZ6Z3sjFU2vkIE6yrz7LB9YlhnYVwRZpJYG1wbOyMorAJmN_qNQUU4PUrVe5ZvE9_BgIau9bDDszRSJb9LcOsvQSKFs&usqp=CAE"
+          },
+          {
+            "_id": "ab42d00f34753bcedfa79e",
+            "title": "cotton pullover embroidery sweatshirt women",
+            "price": 100,
+            "category": {
+              "_id": "61ab1ce24a0fef3f27dc6647",
+              "name": "women's fashion",
+              "slug": "womens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e4976345dcc333ac6cb38",
+              "name": "Aria Ella"
+            },
+            "createdAt": "2021-12-04T10:28:32.450Z",
+            "updatedAt": "2021-12-04T10:28:32.450Z",
+            "slug": "cotton-pullover-embroidery-sweatshirt-women",
+            "image": "https://media.paulsmith.com/dam/products/w_600,c_scale/q_80/MODEL/ECOM/W2R/W2R-226VE-K21169-02/W2R-226VE-K21169-02_1.jpg"
+          },
+          {
+            "_id": "61ab42e90f34753bcedf",
+            "title": "breast button belt sur collar winter coat women",
+            "price": 120,
+            "category": {
+              "_id": "61ab1ce24a0fef3f27dc6647",
+              "name": "women's fashion",
+              "slug": "womens-fashion"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e48bf345dcc333ac6cb28",
+              "name": "William Counts"
+            },
+            "createdAt": "2021-12-04T10:28:57.621Z",
+            "updatedAt": "2021-12-04T10:28:57.621Z",
+            "slug": "breast-button-belt-sur-collar-winter-coat-women",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2uQTMeW5vZZnOcZ6Z3sjFU2vkIE6yrz7LB9YlhnYVwRZpJYG1wbOyMorAJmN_qNQUU4PUrVe5ZvE9_BgIau9bDDszRSJb9LcOsvQSKFs&usqp=CAE"
+          }
+        ]
+      },
+      {
+        "name": "bags & shoes",
+        "products": [
+          {
+            "_id": "431c0f34753bcedfa7a6",
+            "title": "running sneakers",
+            "price": 200,
+            "category": {
+              "_id": "61ab1d0e4a0fef3f27dc664d",
+              "name": "bags & shoes",
+              "slug": "bags-and-shoes"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e4851345dcc333ac6cb24",
+              "name": "Robert Gonzalez"
+            },
+            "createdAt": "2021-12-04T10:29:48.295Z",
+            "updatedAt": "2021-12-04T10:29:48.295Z",
+            "slug": "running-sneaker",
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bd37bf0e-f4c8-42ec-83c1-eba970bbbfaa/react-infinity-3-mens-road-running-shoes-1bRq75.png"
+          },
+          {
+            "_id": "61ab433504753bcedfa7aa",
+            "title": "men casual shoes sports running sneakers",
+            "price": 100,
+            "category": {
+              "_id": "61ab1d0e4a0fef3f27dc664d",
+              "name": "bags & shoes",
+              "slug": "bags-and-shoes"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e48fb345dcc333ac6cb2e",
+              "name": "Noah Ali"
+            },
+            "createdAt": "2021-12-04T10:30:13.299Z",
+            "updatedAt": "2021-12-04T10:30:13.299Z",
+            "slug": "men-casual-shoes-sports-running-sneakers",
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4f1dc7c4-bcd5-48a5-80c0-27603871821f/sb-zoom-blazer-mid-prm-skate-shoes-S2lDDj.png"
+          },
+          {
+            "_id": "61ab43434753bcedfa7ae",
+            "title": "premium leather matt black casual boot",
+            "price": 250,
+            "category": {
+              "_id": "61ab1d0e4a0fef3f27dc664d",
+              "name": "bags & shoes",
+              "slug": "bags-and-shoes"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e4991345dcc333ac6cb3b",
+              "name": "Alex Dwan"
+            },
+            "createdAt": "2021-12-04T10:30:35.528Z",
+            "updatedAt": "2021-12-04T10:30:35.528Z",
+            "slug": "premium-leather-matt-black-casual-boot",
+            "image": "https://media.paulsmith.com/dam/products/w_600,c_scale/q_80/STILL/M2S/M2S-CDC02-JLEA-66/M2S-CDC02-JLEA-66_10.jpg"
+          },
+          {
+            "_id": "61ab431f34753bcedfa7a6",
+            "title": "running sneakers",
+            "price": 200,
+            "category": {
+              "_id": "61ab1d0e4a0fef3f27dc664d",
+              "name": "bags & shoes",
+              "slug": "bags-and-shoes"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e4851345dcc333ac6cb24",
+              "name": "Robert Gonzalez"
+            },
+            "createdAt": "2021-12-04T10:29:48.295Z",
+            "updatedAt": "2021-12-04T10:29:48.295Z",
+            "slug": "running-sneaker",
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bd37bf0e-f4c8-42ec-83c1-eba970bbbfaa/react-infinity-3-mens-road-running-shoes-1bRq75.png"
+          },
+          {
+            "_id": "61ab40f34753bcedfa7aa",
+            "title": "men casual shoes sports running sneakers",
+            "price": 100,
+            "category": {
+              "_id": "61ab1d0e4a0fef3f27dc664d",
+              "name": "bags & shoes",
+              "slug": "bags-and-shoes"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e48fb345dcc333ac6cb2e",
+              "name": "Noah Ali"
+            },
+            "createdAt": "2021-12-04T10:30:13.299Z",
+            "updatedAt": "2021-12-04T10:30:13.299Z",
+            "slug": "men-casual-shoes-sports-running-sneakers",
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4f1dc7c4-bcd5-48a5-80c0-27603871821f/sb-zoom-blazer-mid-prm-skate-shoes-S2lDDj.png"
+          },
+          {
+            "_id": "61ab434b04753bcedfa7ae",
+            "title": "premium leather matt black casual boot",
+            "price": 250,
+            "category": {
+              "_id": "61ab1d0e4a0fef3f27dc664d",
+              "name": "bags & shoes",
+              "slug": "bags-and-shoes"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e4991345dcc333ac6cb3b",
+              "name": "Alex Dwan"
+            },
+            "createdAt": "2021-12-04T10:30:35.528Z",
+            "updatedAt": "2021-12-04T10:30:35.528Z",
+            "slug": "premium-leather-matt-black-casual-boot",
+            "image": "https://media.paulsmith.com/dam/products/w_600,c_scale/q_80/STILL/M2S/M2S-CDC02-JLEA-66/M2S-CDC02-JLEA-66_10.jpg"
+          }
+        ]
+      },
+      {
+        "name": "jewlary & watches",
+        "products": [
+          {
+            "_id": "61ab440f34753bcedfa819",
+            "title": "waterproof fitness racker sports watch",
+            "price": 140,
+            "category": {
+              "_id": "61ab1cf84a0fef3f27dc664a",
+              "name": "jewlary & watches",
+              "slug": "jewlary-and-watches"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49a7345dcc333ac6cb3e",
+              "name": "James Anderson"
+            },
+            "createdAt": "2021-12-04T10:37:40.331Z",
+            "updatedAt": "2021-12-04T10:37:40.331Z",
+            "slug": "waterproof-fitness-racker-sports-watch",
+            "image": "https://jabko.ua/image/cache/catalog/products/2022/12/161156/1_879d8585-db49-4c59-94dc-3699f4-1397x1397.jpg.webp"
+          },
+          {
+            "_id": "61ab450a0753bcedfa81d",
+            "title": "bracelet blood pressure sport fitness smartwatch",
+            "price": 120,
+            "category": {
+              "_id": "61ab1cf84a0fef3f27dc664a",
+              "name": "jewlary & watches",
+              "slug": "jewlary-and-watches"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e48bf345dcc333ac6cb28",
+              "name": "William Counts"
+            },
+            "createdAt": "2021-12-04T10:38:02.131Z",
+            "updatedAt": "2021-12-04T10:38:02.131Z",
+            "slug": "bracelet-blood-pressure-sport-fitness-smartwatch",
+            "image": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/_/3/_30_-_-__result_1_1.jpg"
+          },
+          {
+            "_id": "61ab44f40f53bcedfa819",
+            "title": "waterproof fitness racker sports watch",
+            "price": 140,
+            "category": {
+              "_id": "61ab1cf84a0fef3f27dc664a",
+              "name": "jewlary & watches",
+              "slug": "jewlary-and-watches"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e49a7345dcc333ac6cb3e",
+              "name": "James Anderson"
+            },
+            "createdAt": "2021-12-04T10:37:40.331Z",
+            "updatedAt": "2021-12-04T10:37:40.331Z",
+            "slug": "waterproof-fitness-racker-sports-watch",
+            "image": "https://jabko.ua/image/cache/catalog/products/2022/12/161156/1_879d8585-db49-4c59-94dc-3699f4-1397x1397.jpg.webp"
+          },
+          {
+            "_id": "61ab45f34753bcedfa81d",
+            "title": "bracelet blood pressure sport fitness smartwatch",
+            "price": 120,
+            "category": {
+              "_id": "61ab1cf84a0fef3f27dc664a",
+              "name": "jewlary & watches",
+              "slug": "jewlary-and-watches"
+            },
+            "description": null,
+            "createdBy": {
+              "role": "ROLE_CUSTOMER",
+              "_id": "612e48bf345dcc333ac6cb28",
+              "name": "William Counts"
+            },
+            "createdAt": "2021-12-04T10:38:02.131Z",
+            "updatedAt": "2021-12-04T10:38:02.131Z",
+            "slug": "bracelet-blood-pressure-sport-fitness-smartwatch",
+            "image": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/_/3/_30_-_-__result_1_1.jpg"
+          }
+        ]
+      }
+
+    ]
+  },
+  "message": "Success",
+  "status": 200
+}

@@ -8,12 +8,13 @@ function CartList() {
     } = useContext(ShopContext);
 
     const totalPrice = order.reduce((sum, item) => sum + item.price * item.quantity, 0)
+
     return (
         <ul className="collection cart-list">
             <li href="#!" className="collection-item active">Cart</li>
             {
                 order.length ? order.map(item =>
-                (<CartItem key={item.id}
+                (<CartItem key={item._id}
                     {...item} />
                 ))
                     : (<li href="#!" className="collection-item">The cart is empty</li>)
